@@ -2,7 +2,7 @@ package HashSet;
 
 import java.util.*;
 
-// HashSet could be implemented by using HashMap as wel.
+// HashSet could be implemented by using HashMap as well.
 // For example, HashMap<Key, ""> 
 
 @SuppressWarnings("unchecked")
