@@ -6,7 +6,7 @@ public class Tester {
         stack.push(88);
         stack.push(87);
         stack.pop();
-        for (int val: stack) System.out.println(val);
+        System.out.println(stack);
 
     }
 }

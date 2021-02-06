@@ -39,4 +39,9 @@ public class Stack<E> implements Iterable<E> {
         return list.iterator();
     }
 
+    @Override
+    public String toString() {
+        return list.toString();
+    }
+
 }
